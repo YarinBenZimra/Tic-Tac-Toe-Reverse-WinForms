@@ -13,7 +13,6 @@ Welcome to **Reversed Tic-Tac-Toe**! This project is a Windows Forms application
 - [How to Use](#how-to-use)
 - [Design and Implementation](#design-and-implementation)
 - [Contribution and Support](#contribution-and-support)
-- 
 ---
 
 ## Project Overview
